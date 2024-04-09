@@ -1,18 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=&display=swap');
 
 
+
 body {
     background-color: burlywood;
 }
-
-h1 {
-    text-align: center;
-}
-
 #title {
     text-decoration: none;
     color: chartreuse;
     background-color: inherit;
+}
+h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: 2rem;
+    color: teal;
 }
 
 
@@ -21,7 +25,7 @@ h1 {
     margin-left: 3vw;
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-evenly;    
+    justify-content: space-evenly;
 }
 
 .nav a {
@@ -43,11 +47,6 @@ a:hover {
 
 
 
-p {
-    text-align: center;
-    font-size: 2rem;
-    color: teal;
-}
 
 
 
@@ -98,4 +97,30 @@ p {
 }
 #cwheelimg {
     width: 98vw;
+}
+
+
+
+li {
+    border: 1px solid red;
+}
+
+
+
+table {
+	width: 70%;
+}
+
+tr {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+tr, th, td {
+	text-align: left;
+}
+
+th, td {
+	border: 1px solid black;
+	padding: 20px;
 }
