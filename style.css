@@ -17,7 +17,6 @@ h1 {
 
 
 
-
 .nav {
     margin-left: 3vw;
     display: flex;
@@ -44,111 +43,59 @@ a:hover {
 
 
 
-
 p {
     text-align: center;
     font-size: 2rem;
-    color: goldenrod;
+    color: teal;
 }
-
 
 
 
 #welcomeimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #magimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #nemoimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #joeyimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-      
+    width: 98vw; 
 }
 #crocimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-       
+    width: 98vw;
 }
 #taraimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
-
-
 #pidgimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #duckimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;       
 }
 #jellyimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #starimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-      
+    width: 98vw;
 }
 #humanimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-        
+    width: 98vw;
 }
 #dolphimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #tortimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
 #snakeimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-      
+    width: 98vw;
 }
 #webimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-        
+    width: 98vw;
 }
 #cwheelimg {
-    width: 946px;
-    position: relative;
-    left: 25%
-    
+    width: 98vw;
 }
