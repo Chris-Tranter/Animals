@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css?family=&display=swap');
+
+
+body {
+    background-color: burlywood;
+}
+
+h1 {
+    text-align: center;
+}
+
+#title {
+    text-decoration: none;
+    color: chartreuse;
+    background-color: inherit;
+}
+
+
+
+
+.nav {
+    margin-left: 3vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;    
+}
+
+.nav a {
+    font-size: larger;
+    text-decoration: none;
+    color: red;
+    border: 2px solid red;
+    border-radius: 12%;
+}
+
+a {
+    padding: 2vw;
+    background-color: powderblue;
+}
+
+a:hover {
+    background-color: cyan;
+}
+
+
+
+
+p {
+    text-align: center;
+    font-size: 2rem;
+    color: brown;
+}
+
+
+
+
+#welcomeimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#magimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#nemoimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#joeyimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+      
+}
+#crocimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+       
+}
+#taraimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+
+
+#pidgimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#duckimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#jellyimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#starimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+      
+}
+#humanimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+        
+}
+#dolphimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#tortimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
+#snakeimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+      
+}
+#webimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+        
+}
+#cwheelimg {
+    width: 946px;
+    position: relative;
+    left: 25%
+    
+}
